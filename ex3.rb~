@@ -1,0 +1,3 @@
+# Shorter than example. Copy and paste is cheating, 
+# Learning means typing on your own
+puts "Wilders #{(8 + 8) / 2}"
